@@ -42,11 +42,10 @@
     float: left;
     margin-right: 20px;
   }
-  
   .header-content .list-social li i {
     color: #fff;
-    font-size: 15px;
-  }
+    font-size: 25px;
+   }
 .profile{
   width: 100%;
   display: flex;
@@ -59,7 +58,7 @@
   align-content: right;
   border-color: white;
   border-radius: 300px;
-}
+  }
 .carousel-item img {
   height: 90vh;
   margin-top: 0px;
